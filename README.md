@@ -1,6 +1,8 @@
 Social Anxiety Model
 This project utilizes a synthetic social anxiety dataset to train and evaluate machine learning models aimed at predicting social anxiety levels. The model is developed using XGBoost and is exposed via a user-friendly Streamlit interface for easy interaction.
 
+You can access metrics of model from src/models folder. Also you are free to develop model.
+
 Features
 Synthetic Social Anxiety Dataset: The dataset contains multiple features related to physical activity, sleep hours, caffeine intake, and more.
 
