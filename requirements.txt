@@ -1,5 +1,6 @@
-scikit-learn
-xgboost
-pickle
+scikit-learn==1.5.1
+xgboost==3.0.0
+pickle==0.7.5
 pandas
 matplotlib
+-e .
